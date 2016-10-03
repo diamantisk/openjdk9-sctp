@@ -34,7 +34,7 @@ If you want to run an application that uses SCTP protocol and you don't want to 
 Inherits **OpenJDK**'s license as seen in LICENSE file. (The GNU General Public License (GPL))
 
 # Credits
-My name is **Diamantis Kyriakakis** and you may contact by using any of the following:
+My name is **Diamantis Kyriakakis** and you may contact me by using any of the following:
 - Email: diamantis.kiriakakis@gmail.com
 - Linked-In: https://www.linkedin.com/in/diamantis-kyriakakis-131b9a66
 
