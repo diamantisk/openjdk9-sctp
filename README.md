@@ -40,15 +40,16 @@ If you want to run an application that uses SCTP protocol and you don't want to 
 Inherits **OpenJDK**'s license as seen in [LICENSE](LICENSE) and (The GNU General Public License (GPL))  and  [THIRD_PARTY_README](THIRD_PARTY_README) files.
 
 # Honest Disclaimer
--I am a multilingual developer (regarding this JVM patch i can asure you that i am a pretty good JAVA developer and a  moderate to good c developer, good enough to patch the JVM but not that good to build an OS from scratch).  The above statement does not means that i  am able to read and understand a bytecode stream like this: 03 3b 84 00 01 1a 05 68 3b a7 ff f9 without using a good manual :) Patching a JVM to add a new feature is far away easier than reading directly bytecode at all.
--I initially  created this modified JVM just for me but since it is always good to share your achievements/tools with others (at last i am using a lot of tools freely provided by others everyday), i decided to share this project to everyone. As an old Windows user and now as an OSX user  i always wanted a JVM able to work with SCTP in OSes other than Linux, something that has never been created. So after so many years, i decided to  do it my self. 
--I do not own anything. Java and all trademarks related to this project are owned by  the copyright holders of the OpenJDK, Oracle e.t.c.  I am just responsible for the patched parts  under  *jdk.sctp/macosx* folder  and for all these source files are based to the source files of *jdk.sctp/unix* folder. 
--I hope this project helps you to develop  great JAVA  based apps that utilizes SCTP protocol, directly from  OSX and soon from Windows without the need to  deploy your project all the time to a linux box  in order to see if and how it works. 
+- I am a multilingual developer (regarding this JVM patch i can asure you that i am a pretty good JAVA developer and a  moderate to good c developer, good enough to patch the JVM but not that good to build an OS from scratch).  The above statement does not means that i  am able to read and understand a bytecode stream like this: 03 3b 84 00 01 1a 05 68 3b a7 ff f9 without using a good manual :) Patching a JVM to add a new feature is far away easier than reading directly bytecode at all.
+- I initially  created this modified JVM just for me but since it is always good to share your achievements/tools with others (at last i am using a lot of tools freely provided by others everyday), i decided to share this project to everyone. As an old Windows user and now as an OSX user  i always wanted a JVM able to work with SCTP in OSes other than Linux, something that has never been created. So after so many years, i decided to  do it my self. 
+- I do not own anything. Java and all trademarks related to this project are owned by  the copyright holders of the OpenJDK, Oracle e.t.c.  I am just responsible for the patched parts  under  *jdk.sctp/macosx* folder  and for all these source files are based to the source files of *jdk.sctp/unix* folder. 
+- I hope this project helps you to develop  great JAVA  based apps that utilizes SCTP protocol, directly from OSX and soon from Windows without the need to  deploy your project all the time to a linux box  in order to see if and how it works. 
 
 # Credits
 My name is **Diamantis Kyriakakis** and you may contact me by using any of the following:
 - Email: diamantis.kiriakakis@gmail.com
 - Linked-In: https://www.linkedin.com/in/diamantis-kyriakakis-131b9a66
+
 
 
 
