@@ -16,7 +16,7 @@ I started this project in order to make my life even easier when working with th
 # Just get the JRE binary
 If you want to run an application that uses SCTP protocol and you don't want to build the JVM from sources using this repo, you may **[download my build here](http://www117.zippyshare.com/v/pWx9qPss/file.html)**. 
 
-***ATTENTION: This JVM's SCTP requires installation of SCTP NKE. In order to be able to use SCTP protocol under OSX, you should follow the protocol installation guide as shown at [sctplab/SCTP_NKE_ElCapitan](https://github.com/sctplab/SCTP_NKE_ElCapitan)***
+***ATTENTION: This JVM's SCTP requires installation of SCTP NKE. In order to be able to use SCTP protocol under OSX, you should follow the protocol installation guide as described at [sctplab/SCTP_NKE_ElCapitan](https://github.com/sctplab/SCTP_NKE_ElCapitan)***
 
 
 # How to Build
