@@ -23,11 +23,7 @@
  * questions.
  */
 
-/* 
- * This code is copied from the jdk.sctp/unix folder and coontains minor modifications
- * to make it compatible with SCTP library for OS X
- * Work done by Diamantis Kyriakakis (diamantis.kiriakakis@gmail.com)
- */
+ /* Code based on unix repo of jdk.sctp with minor modifications where needed by Diamantis Kyriakakis (diamants.kiriakakis@gmail.com) */
 
 #include <stdlib.h>
 #include <string.h>
