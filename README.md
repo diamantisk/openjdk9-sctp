@@ -33,8 +33,8 @@ If you want to run an application that uses SCTP protocol and you don't want to 
 [Above building steps are enough but in case you need to explore more build options, you may view README-builds.md file for more info regarding building from source](README-builds.md)
 
 # What is next?
--A  cleanup of this project, especially mercurial (hg) related leftover files, since this version of JVM will be  *git based*. I tried to clean-up the most but i am pretty sure that other mercurial leftovers are here :-)
--Extend SCTP  features of this JVM also for the Windows platform. 
+- A  cleanup of this project, especially mercurial (hg) related leftover files, since this version of JVM will be  *git based*. I tried to clean-up the most but i am pretty sure that other mercurial leftovers are here :-)
+- Extend SCTP  features of this JVM also for the Windows platform. 
 
 # License
 Inherits **OpenJDK**'s license as seen in [LICENSE](LICENSE) and (The GNU General Public License (GPL))  and  [THIRD_PARTY_README](THIRD_PARTY_README) files.
