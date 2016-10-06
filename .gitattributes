@@ -5,3 +5,4 @@
 *.sub	text merge=union eol=lf
 *configure	 text merge=union eol=lf
 *config*	 text merge=union eol=lf
+exceptions
