@@ -1,4 +1,4 @@
 # Set the default behavior, in case people don't have core.autocrlf set.
 *        text=auto
-*.gmk	 text merge=union eol=crlf
-configure	 text merge=union eol=crlf
+*.gmk	 text merge=union eol=lf
+configure	 text merge=union eol=lf
