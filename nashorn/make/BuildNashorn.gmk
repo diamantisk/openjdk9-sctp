@@ -101,7 +101,7 @@ $(eval $(call SetupTextFileProcessing, BUILD_VERSION_FILE, \
   OUTPUT_FILE := $(JDK_OUTPUTDIR)/modules/jdk.scripting.nashorn/jdk/nashorn/internal/runtime/resources/version.properties, \
   REPLACEMENTS := \
       @@VERSION_STRING@@ => $(VERSION_STRING) ; \
-      @@VERSION_SHORT@@ => $(VERSION_SHORT) , \
+      @@VERSION_SHORT@@ => $(VERSION_SHORT), \
 ))
 
 # Version processing needs to happen after nasgen run since nasgen run deletes it
