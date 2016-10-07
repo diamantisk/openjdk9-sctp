@@ -9,3 +9,4 @@
 *configure	 text merge=union eol=lf
 *config*	 text merge=union eol=lf
 exceptions	text merge=union eol=lf
+version-numbers	text merge=union eol=lf
