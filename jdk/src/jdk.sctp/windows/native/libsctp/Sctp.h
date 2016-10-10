@@ -30,8 +30,8 @@
 
 #define _XPG4_2
 #define __EXTENSIONS__
-#include "ws2sctp.h"
 #include "jni.h"
+ #include "ws2sctp.h"
 
 /* Current Solaris headers don't comply with draft rfc */
 #ifndef SCTP_EOF
