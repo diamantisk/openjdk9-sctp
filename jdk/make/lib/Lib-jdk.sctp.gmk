@@ -76,7 +76,6 @@ ifeq ($(OPENJDK_TARGET_OS_TYPE), windows)
         OPTIMIZATION := LOW, \
         CFLAGS := $(CFLAGS_JDKLIB) \
             -I $(JDK_TOPDIR)/src/java.base/windows/native/libnio/ch \
-            -I $(JDK_TOPDIR)/src/java.base/windows/native/libnio/ch \
             -I $(JDK_TOPDIR)/src/java.base/share/native/libnio/ch \
             $(addprefix -I, $(call FindSrcDirsForLib, java.base, net)) \
             $(LIBJAVA_HEADER_FLAGS) \
