@@ -42,7 +42,7 @@ import java.lang.annotation.Native;
  * @author Mike McCloskey
  */
 
-class PollArrayWrapper {
+public class PollArrayWrapper {
 
     private AllocatedNativeObject pollArray; // The fd array
 
